@@ -2,7 +2,7 @@ import threading
 import socket
 
 host = '127.0.0.1'
-port = 50000
+port = <port no.>   #default port no. 50000
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((host, port))
 server.listen()
