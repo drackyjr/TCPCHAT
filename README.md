@@ -1,3 +1,1 @@
-### Hi there 👋
-
-
+simple networking project that demonstrates the basics of setting up a client-server communication system. The project is built using Python and includes a server script that listens for incoming client connections and a client script that connects to the server and sends/receives messages.
